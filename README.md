@@ -53,6 +53,7 @@ int main()
 ![alt text](image.png)
 
 Program Output:
+
 ![alt text](image-1.png)
 
 # Result
